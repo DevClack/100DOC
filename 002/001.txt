@@ -1,0 +1,9 @@
+this is the beginning of a series of "diary" entries for this challenge/experience. 
+I will be making personal as well as non-personal notes in these entries from now on as needed. They will not be made every time I commit or even every day. I am using these in replacement for actual commit messages for now as I have no reason to have a legitimate "commit message" in this non project repository. 
+For reference, the "test.txt" files were uploaded just to create the file tree inside of the github repository and are redundant and unecessary otherwise. 
+
+I am currently working through a series of tutorials to better understand the fundamentals of Java as well as be sure I know the basics before jumping into anything larger. I have plenty of experience getting into "new" things without going through basics first (playing guitar, league of legends, building pc's, fixing cars, etc. ) and this has been a terrible experience for me no matter how much I enjoyed it. So let's get it right this time!
+
+Anyways, I'm hoping that by the end of this series I am capable of commiting actual small projects in this repo instead of tutorial notes. 
+
+*ps. I will considerably cut down on the amount of pushes and commits I make for now, doing so only when moving from my laptop to desktop, or stopping for the day. a commit with every file is a bit much in my opinion. 
