@@ -44,7 +44,10 @@ public class MdA {
 		System.out.println(grid2[0][2][2]);
 		System.out.println(grid2[1][0][0]);
 		System.out.println(grid2[1][2][0]);
-		/// Kind of proud of myself here, it worked!
+		
+		/// Kind of proud of myself here, it worked! 
+		/// p.s. There was a massive smile on my face after successfully running this
+		
 		
 		/* okay now let's iterate through grid.
 		 * This is done in the "rows" then "columns" fashion
