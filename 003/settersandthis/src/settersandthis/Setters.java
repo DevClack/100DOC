@@ -6,18 +6,18 @@
 package settersandthis;
 
 class Frog {
-	
-	String name;
-	int age;
+	// the "private" means that these variables are not accessible directly, outside of this class. 
+	private String name;
+	private int age;
 	
 	// Here is a setter, it sets the method parameter as name
-	// *why does this method require "void"...?
-	public void setName(String newname) {
-		name = newname;
+	// * see notes in the "frog" class file for reference to this.
+	public void setName(String name) {
+		this.name = name;
 	}
 	
-	public void setAge(int newage) {
-		age = newage;
+	public void setAge(int age) {
+		this.age = age;
 	}
 
 	public String getName() {
