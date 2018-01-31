@@ -1,0 +1,1 @@
+This was a pretty large walkthrough about static variables and a few other things tossed in that were relevant to the lesson.

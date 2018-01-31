@@ -1,0 +1,4 @@
+Just a quick update for my day. 
+Things are getting a little more in depth so I will have a change of plans from the normal. 
+Lately, I have been working through a course topic with the video, saving it, and pushing that to the repo to later pull from my home desktop. 
+The new plan is to watch through a few videos at a time, watch them again if more free time arises, then work along with them when I get home. Hopefully this will help me to better understand them as they become more difficult as well as cut down on my commits to this repo. 

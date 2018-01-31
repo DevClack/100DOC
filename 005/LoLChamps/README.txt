@@ -1,0 +1,6 @@
+This project was created simply to test my current understanding of classes, methods, setters and getters. I also wanted to test creating a class outside of the main class file and using it within the main class file. This ensured that I was not missing something obvious somewhere. I did however have some issues with my Eclipse IDE not running the code I was working with. After about an hour and a half of searching this has been chalked up to being a "Eclipse bug"..? HUH? A bug that litterally repeatedly runs an unopened, unselected class file that has nothing to do with the directory or files you're working with...? 
+Why on earth is that mainstream?
+So I built this with NetBeans IDE. It was okay, a lack of shortcuts and hotkeys definately mean you better remember your formatting, quotations, brackets and parentheses. 
+It also had one wierd little issue. Within my getRole method, it ran the first time with a bug, and suggested I set "role" to a string within the method? I used the "helper" menu that popped up to fix the "bug" but it changed not a single thing so I'm not sure what that was about. I haven't run into that in eclipse. 
+
+This is going to be an interesting ride for sure. 
